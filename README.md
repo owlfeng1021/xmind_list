@@ -7,4 +7,4 @@
 
 xmind展示
 
-![集合.xmind](.\images\集合\读书笔记.png)
+![集合.xmind](./images/集合/读书笔记.png)
