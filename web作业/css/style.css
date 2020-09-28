@@ -1,11 +1,5 @@
 @charset "utf-8";
 
-/*----------------------------------------------------
-    1. Global styles
-------------------------------------------------------*/
- 
- @import url('../icon/elegant-icons/style.css');
- @import url('../css/font-awesome.min.css');
 body {
 	font-size: 15px;
 	font-family:"Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
